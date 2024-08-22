@@ -38,8 +38,8 @@ Para instalar la librería debe tener en cuenta estos pasos:
 - Pitón
 
 # Archivos
---> Se encontraran dos archivos los cuales son:
-- libreria_complejos.py
-Donde encontrara el codigo de las operaciones solicitadas.
---> pruebas.py
+1. Se encontraran dos archivos los cuales son:
+   Libreria_Numeros_Complejos.py
+3. Donde encontrara el codigo de las operaciones solicitadas.
+  pruebas.py
 En este archivo se encuentran las pruebas que se solicitaron en unittest.
